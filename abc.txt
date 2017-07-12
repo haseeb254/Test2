@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 line change
-I made some changes in your file( just for testing)
-=======
+
 I made some changes in your file( just for testing)
 
-your file changed once again 
->>>>>>> 13e1aad09279c062a38d363a07d827c5c1ecd944
+Huma your file changed once again.
+
